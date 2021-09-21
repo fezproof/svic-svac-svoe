@@ -1,5 +1,7 @@
 <script context="module" lang="ts">
 	export const prerender = true;
+	export const hydrate = false;
+	export const router = false;
 </script>
 
 <h1>Welcome to SvelteKit</h1>
