@@ -1,0 +1,11 @@
+name = "svic-svac-svoe"
+type = "webpack"
+route = ''
+account_id = '90101201ef6f6f2b460284210d2037db'
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "./workers-site"}
+compatibility_date = "2021-09-21"
+
